@@ -26,6 +26,7 @@ It leverages Generative AI models (via Hugging Face + LangChain) to generate str
 ✅ Future-ready for real API integration (Amadeus, Google Places).
 
 🏗️ Project Structure
+
 <img width="750" height="285" alt="image" src="https://github.com/user-attachments/assets/03fae94a-dcec-4d6b-bdd7-286c6cd2bde4" />
 
 
