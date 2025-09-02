@@ -26,18 +26,8 @@ It leverages Generative AI models (via Hugging Face + LangChain) to generate str
 ✅ Future-ready for real API integration (Amadeus, Google Places).
 
 🏗️ Project Structure
-travel-itinerary-ai/
-  ├─ .env                  # API keys (Hugging Face, Amadeus, Google Places)
-  ├─ requirements.txt      # Python dependencies
-  ├─ app.py                # Streamlit main app
-  └─ src/
-     ├─ prompts/
-     │  └─ itinerary_prompt.py   # Prompt templates for itinerary generation
-     ├─ services/
-     │  ├─ llm.py               # LLM integration (Hugging Face + LangChain)
-     │  └─ providers.py         # Data providers (sample flights/hotels/attractions)
-     └─ utils/
-        └─ __init__.py          # Placeholder for utility functions
+<img width="750" height="285" alt="image" src="https://github.com/user-attachments/assets/03fae94a-dcec-4d6b-bdd7-286c6cd2bde4" />
+
 
 🛠️ Tech Stack
 
